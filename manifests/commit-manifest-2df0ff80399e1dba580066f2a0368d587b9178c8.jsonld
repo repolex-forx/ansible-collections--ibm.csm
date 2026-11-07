@@ -1,0 +1,50 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/ansible-collections/ibm.csm/commit/2df0ff80399e1dba580066f2a0368d587b9178c8",
+  "@type": "git:Commit",
+  "git:hexsha": "2df0ff80399e1dba580066f2a0368d587b9178c8",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/ansible-collections/ibm.csm"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/2df0ff80399e1dba580066f2a0368d587b9178c8.nq.gz",
+      "repolex:graphFileSize": 8896
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 13464
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 415
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 408
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 5514
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 12469
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-07T13:59:34.723805+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
