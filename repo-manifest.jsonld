@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm.csm/commit/2df0ff80399e1dba580066f2a0368d587b9178c8",
       "git:hexsha": "2df0ff80399e1dba580066f2a0368d587b9178c8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T14:01:29.127391+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm.csm/commit/0f6c5a2759cfda873d420660e70114b90ef83e2f",
