@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "ibm.csm",
+  "versions": [
+    {
+      "commit": "2df0ff80399e1dba580066f2a0368d587b9178c8",
+      "tag": "",
+      "parsed_at": "2026-11-07T14:01:29.127851+00:00"
+    }
+  ]
+}
